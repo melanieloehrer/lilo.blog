@@ -9,11 +9,7 @@ tags = ["Deutsch", "Reportage"]
 
 **Melanie Löhrer, Anne Inderbitzi**
 
-{{<lead>}}
-
-Sie leben auf der Strasse, sie haben kein Zuhause. Sie sind da, doch werden kaum als Menschen wahrgenommen. Obdachlose haben es schwer und es werden immer mehr. Wie kommt es dazu, dass Menschen obdachlos werden? Unternimmt der Staat die erforderlichen Massnahmen nicht? Und wie (über-)leben obdachlose Menschen hier in der Stadt Bern?
-
-{{</lead>}}
+{{<lead>}} Sie leben auf der Strasse, sie haben kein Zuhause. Sie sind da, doch werden kaum als Menschen wahrgenommen. Obdachlose haben es schwer und es werden immer mehr. Wie kommt es dazu, dass Menschen obdachlos werden? Unternimmt der Staat die erforderlichen Massnahmen nicht? Und wie (über-)leben obdachlose Menschen hier in der Stadt Bern? {{</lead>}}
 
 Leo N.* sucht nach einem Schlafplatz, eine Suche, die den ganzen Tag einnimmt. Wir treffen ihn auf der kleinen Schanze an, dort habe er noch nie geschlafen, es sei ihm zu wenig sicher. «Mein ganzer Alltag ist von vielen Unsicherheiten geprägt», erzählt Leo N., er wisse nie, wie der Tag ausgehen würde. Lange Zeit gab es keine Studien und schon gar nicht Zählungen von Obdachlosen. Erst 2020 haben Forscher der Fachhochschule Nordwestschweiz eine Studie dazu durchgeführt. Heute leben ungefähr 2200 Menschen obdachlos in der Schweiz. In Bern sind es zurzeit etwa 45. Studien belegen, dass die Zahl der Obdachlosen in Bern und auch allgemein in der Schweiz in den letzten Jahren angestiegen ist. Auch unser Interviewpartner Leo kann dem zustimmen: «Ich sehe immer mehr Menschen und vor allem auch junge Menschen, die auf der Strasse landen (…).»
 
@@ -37,16 +33,12 @@ Heute Nacht werde er es wieder beim Sleeper versuchen, teilt er uns bei der Vera
 
 Obdachlosigkeit war, ist und wird auch immer ein wichtiges und leider viel zu wenig sensibilisiertes Thema bleiben. Es ist viel zu einfach, die Tatsache, dass man tagtäglich an obdachlosen Menschen vorbeiläuft, zu ignorieren. Doch die bittere Realität ist: Es kann jeden treffen und genau deshalb sind solche Hilfsangebote auch notwendig. Viel zu viele Menschen sind obdachlos, obwohl es entsprechende Hilfsangebote gibt. Und wir dürfen nicht vergessen: Jeder von ihnen hat eine Geschichte, jeder von ihnen hat Träume und Hoffnungen, die oft durch Umstände jenseits ihrer Kontrolle zerstört wurden. Wir müssen uns als Gesellschaft dafür einsetzen, dass niemand mehr gezwungen ist, sein Leben auf der Straße zu verbringen. Dafür brauchen wir nicht nur politische Maßnahmen und finanzielle Unterstützung, sondern auch Mitgefühl, Empathie und die Bereitschaft, uns persönlich für die Bedürfnisse der Obdachlosen einzusetzen. Wenn Leo N. heute Nacht wieder auf der Suche nach einem Schlafplatz ist, sollten wir uns daran erinnern, dass er nicht allein ist. Millionen von Menschen auf der ganzen Welt kämpfen jeden Tag mit denselben Herausforderungen. Es liegt an uns, ihre Stimmen zu hören und uns für eine Welt einsetzen, in der niemand jeden Tag darum bangen muss, wo er die nächste Nacht verbringen wird. 
 
-{{<box>}}
-
-Hier ist eine Liste mit Notschlafstellen und Aufenthaltsräumen für Obdachlose in Bern:
+{{<box>}} Hier ist eine Liste mit Notschlafstellen und Aufenthaltsräumen für Obdachlose in Bern:
 
 * Notschlafstelle Passantenheim der Heilsarmee; Muristrasse 6, 3006 Bern
 * Notschlafstelle Sleeper & Gassenküche; Neubrückstrasse 19, 3012 Bern -> 5-10 CHF
 * Jugend-Notschlafstelle Pluto; Studerstrasse 44, 3004 Bern -> gratis
 * Aufenthaltsraum AKIB; Postgasse 35, 3011 Bern
-* Punkt 6, Nägeligasse 3a, 3011 Bern -> derzeit geschlossen, öffnet wieder am 01.11.2024 
-
-{{</box>}}
+* Punkt 6, Nägeligasse 3a, 3011 Bern -> derzeit geschlossen, öffnet wieder am 01.11.2024  {{</box>}}
 
 *\*Name der Redaktion bekannt*
