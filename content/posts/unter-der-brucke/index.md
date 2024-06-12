@@ -4,6 +4,7 @@ date = "2024-05-24"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
+image = "whatsapp-image-2024-06-12-at-07.08.43.jpeg"
 +++
 ## Wenn die Suche nach einem Schlafplatz den Alltag bestimmt
 
